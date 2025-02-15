@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Q1LMCKbdTester")(type "KiCad")(uri "${KIPRJMOD}/Q1LMCKbdTester.kicad_sym")(options "")(descr ""))
+)
